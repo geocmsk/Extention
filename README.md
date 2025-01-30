@@ -1,9 +1,5 @@
 # Extention Setup VPS 
 
-- DE : https://github.com/FurkanL0/Extention/blob/main/Extention-DE.md
-- FR : https://github.com/FurkanL0/Extention/blob/main/Extention-FR.md
-- TR : https://github.com/FurkanL0/Extention/blob/main/Extention-TR.md
-- IN : https://github.com/FurkanL0/Extention/blob/main/Extention-IN.md
 
 ## Requirements : 
 
